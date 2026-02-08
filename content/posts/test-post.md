@@ -1,6 +1,6 @@
 +++
 date = '2026-02-08T21:02:45+08:00'
-draft = False
+draft = false
 title = 'Test Post'
 +++
 
