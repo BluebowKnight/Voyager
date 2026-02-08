@@ -1,4 +1,9 @@
 baseURL = 'https://ivoiage.netlify.app/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'zh-cn'
+title = 'V-28战略日志阵列'
 theme='papermod'
+
+[params]
+  [params.homeInfoParams]
+    Title = "** 连接稳固 ** 欢迎访问，指挥官"
+    Content = "Voyager V-28，休整周期结束。生命维持系统：已校准。战术分析阵列：全频段待机。后勤补给线：回路畅通。解除所有物理与协议系泊。曲速引擎，推进至巡航档位。让我们重返深空。"
