@@ -1,9 +1,37 @@
 baseURL = 'https://ivoiage.netlify.app/'
 languageCode = 'zh-cn'
-title = 'V-28战略日志阵列'
-theme='papermod'
+title = 'NCC-26216 | 战略日志阵列'
+theme = 'papermod'
+
+# 启用标签和分类系统
+[taxonomies]
+  tag = "tags"
+  category = "categories"
 
 [params]
+  # 在文章页面显示标签
+  [params.ShowTags]
+    enable = false
+  
+  # 主页信息
   [params.homeInfoParams]
-    Title = "** 连接稳固 ** 欢迎访问，指挥官"
-    Content = "Voyager V-28，休整周期结束。生命维持系统：已校准。战术分析阵列：全频段待机。后勤补给线：回路畅通。解除所有物理与协议系泊。曲速引擎，推进至巡航档位。让我们重返深空。"
+    Title = "** 连接稳固 ** 欢迎回来，指挥官"
+    Content = "星辰，人们凝望却无法触及的彼岸。这里是人类在四万年长夜中擎起的星炬之光。谨以此日志阵列，铭记在浩瀚宇宙中的每一次抉择、每一次向死而生的奔赴、每一次将心跳燃成星火的牺牲。"
+  
+
+
+# 导航菜单 - 添加标签和分类入口
+[[menu.main]]
+  name = "舰桥终端"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "航行日志"
+  url = "/archives/"
+  weight = 2  # 调整顺序，比如放在"星图索引"之前或之后
+
+[[menu.main]]
+  name = "星区数据库"  # 标签页面
+  url = "/tags/"
+  weight = 3

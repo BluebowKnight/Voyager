@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on NCC-26216 | 战略日志阵列</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on NCC-26216 | 战略日志阵列</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 08 Feb 2026 21:02:45 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/test-post/</link>
+      <pubDate>Sun, 08 Feb 2026 21:02:45 +0800</pubDate>
+      <guid>http://localhost:1313/posts/test-post/</guid>
+      <description>&lt;p&gt;This is a test post. Happy to see this blog go online.&lt;/p&gt;
+&lt;p&gt;这是一个测试日志，非常高兴它能够正常上线。&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;NAME:&lt;/td&gt;
+          &lt;td&gt;XXX&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;AGE:&lt;/td&gt;
+          &lt;td&gt;32&lt;/td&gt;
+          &lt;td&gt;GENDER:&lt;/td&gt;
+          &lt;td&gt;Female&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>
